@@ -1,0 +1,4 @@
+operator:
+  address: "0x2Cd5bD858dAf1492BBC17Bf89265e4F060Db07b4"
+  network: "holesky"
+  chain_id: 1000
